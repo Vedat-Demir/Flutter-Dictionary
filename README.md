@@ -2,7 +2,7 @@
 
 Flutter ile hazırlanmış basit seviyede İngilizce - Türkçe sözlük uygulaması.
 
-## Getting Started
+## Ekran Görüntüleri
 
 This project is a starting point for a Flutter application.
 
