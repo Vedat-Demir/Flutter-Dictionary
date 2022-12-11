@@ -1,6 +1,6 @@
 # İngilizce - Türkçe Sözlük Uygulaması
 
-A new Flutter project.
+Flutter ile hazırlanmış basit seviyede İngilizce - Türkçe sözlük uygulaması.
 
 ## Getting Started
 
