@@ -1,4 +1,4 @@
-# dictionary
+# İngilizce - Türkçe Sözlük Uygulaması
 
 A new Flutter project.
 
